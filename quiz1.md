@@ -5,7 +5,7 @@ Identify the case, number, and gender of each noun. If there are multiple possib
 
 1. filiam - feminine, accusative, singular
 2. ❌ in coniugium - neuter, accusative or ablative, singular; if accusative: "into marriage" ; if ablative: "in marriage"
-  (Revised: coniugium - neuter, nominative, accusative, vocative singular; "in coniugium" (accusative): "into marriage" 
+       (Revised: coniugium - neuter, nominative, accusative, vocative singular; "in coniugium" (accusative): "into marriage" 
 3. animo - masculine, dative or ablative, singular
 4. uirgine - feminine, ablative, singular
 5. parentes - masculine, nominative or accusative, plural
