@@ -16,8 +16,23 @@ Hercules *interuenit* et centaurum interfecit,
 
 Part B: Gramatical Questions:
 1. Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
+>Dexamenus, Dexameni, m.
+>>Accusative, singular
 2. Write a dictionary entry (nominative singular, genitive singular, gender) for Deianiram, then identify the form Deianiram.
+>Deinanira, Deianirae, f.
+>>Accusative, singular
 3. Identify the form abesset, and explain why it is this tense and mood.
+>Third person, sinular, imperfect, active, subjunctive
+>>The imperfect sunjunctive is used to suggest the sequence of the actions in the sentence. The use of the imperfect subjunctive here shows comtemporary action. 
 4. Identify the form uenisset, and explain why it is this tense and mood.
+>Third person, singular, pluperfect, active, subjunctive. 
+>>The pluperfect tense and subjunctive mood are used to show the sequence of action. This tense and mood suggests that the action of the verb happened before the other action in the sentence. 
 5. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
+>Third person, singular, perfect, passive, indicative
+>>"polliceo, pollicere, pollicui, pollicitum - to promise" 
 6. Identify the form of the noun-adjective phrase tempore certo, and explain why it is in this case.
+>tempore - from temptus, temporis, n: "time" (ablative), certo - from certus, certa, certum: "certian" (masculine, ablative)
+>>The ablative is used to express time. 
+
+Part C: Translation
+"When Hercules went into hospitality near King Dexamenus and then deflowered his daughter, Deianira, he wished to lead her as his wife (to marry her). When Hercules left, the centaur, Eurytion, sought to marry Deinira. Because the father was afraid of the centaur, he promised to give his daugter to him. On a certain day, the centaur went with his brothers to the wedding. Hercules came and killed the centaurs and led Deianira away." 
