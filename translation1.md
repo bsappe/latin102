@@ -27,10 +27,10 @@ Part B: Gramatical Questions:
 >>Accusative, singular
 3. Identify the form abesset, and explain why it is this tense and mood.
 >Third person, singular, imperfect, active, subjunctive
->>The imperfect sunjunctive is used to suggest the sequence of the actions in the sentence. The use of the imperfect subjunctive here shows comtemporary action. ❌
+>>The imperfect sunjunctive is used to suggest the sequence of the actions in the sentence. The use of the imperfect subjunctive here shows comtemporary action. ❌ (REVISION: THE IMPERFECT SUBJUNCTIVE IS USED TO SHOW CIRCUMSTANCE - THE CENTAUR SOUGHT TO MARRY DEIANIRA BECAUSE HERCUKES WAS ABSENT)
 4. Identify the form uenisset, and explain why it is this tense and mood.
 >Third person, singular, pluperfect, active, subjunctive. 
->>The pluperfect tense and subjunctive mood are used to show the sequence of action. ❌ This tense and mood suggests that the action of the verb happened before the other action in the sentence. 
+>>The pluperfect tense and subjunctive mood are used to show the sequence of action. ❌ This tense and mood suggests that the action of the verb happened before the other action in the sentence. (REVISION: THE PLUPERFECT SUBJUNCTIVE HERE EXPRESSES THAT THE VERB HAD HAPPENED (HAD CAME - WENT))
 5. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
 >Third person, singular, perfect, passive, indicative
 >>"polliceo, pollicere, pollicui, pollicitum - to promise" 
