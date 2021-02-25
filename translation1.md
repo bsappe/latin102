@@ -1,22 +1,26 @@
-**Needs revisions**
-**Very nice translation!**
+**Full credit**
 
-Part A: Gramatical Analysis ❌ *Please review analyzing dependent relations as we did in class.*
+Part A: Gramatical Analysis
 
-Hercules cum in hospitium ad Dexamenum regem *uenisset* 
->eiusque filiam Deianiram *deuirginasset*, 
->>*volebat* eam uxorem *ducere*. 
 
-Cum Hercules *abesset*, 
->centaurus Eurytion *petit* Deianiram uxorem. 
+Hercules 
+> cum in hospitium ad Dexamenum regem *uenisset* 
+> eiusque filiam Deianiram *deuirginasset*, 
+*volebat* eam uxorem *ducere*. 
 
-Quia pater eius centaurum *timebat*, 
->*pollicitus est* se daturum. 
+
+> Cum Hercules *abesset*, 
+centaurus Eurytion *petit* Deianiram uxorem. 
+
+> Quia pater eius centaurum *timebat*, 
+*pollicitus est* 
+> se daturum. 
 
 Tempore certo, *venit* centaurus cum fratribus ad nuptias. 
 
-Hercules *interuenit* et centaurum interfecit, 
->Deianiram *abduxit*.
+Hercules *interuenit* 
+et centaurum *interfecit*, 
+Deianiram *abduxit*.
 
 Part B: Gramatical Questions:
 1. Write a dictionary entry (nominative singular, genitive singular, gender) for Dexamenum, then identify the form Dexamenum.
@@ -27,10 +31,10 @@ Part B: Gramatical Questions:
 >>Accusative, singular
 3. Identify the form abesset, and explain why it is this tense and mood.
 >Third person, singular, imperfect, active, subjunctive
->>The imperfect sunjunctive is used to suggest the sequence of the actions in the sentence. The use of the imperfect subjunctive here shows comtemporary action. ❌ (REVISION: THE IMPERFECT SUBJUNCTIVE IS USED TO SHOW CIRCUMSTANCE - THE CENTAUR SOUGHT TO MARRY DEIANIRA BECAUSE HERCUKES WAS ABSENT)
+>>The imperfect sunjunctive is used to suggest the sequence of the actions in the sentence. THE  SUBJUNCTIVE IS USED TO SHOW CIRCUMSTANCE - the imperfect indicates same time or later than a main verb in secondary sequence.
 4. Identify the form uenisset, and explain why it is this tense and mood.
 >Third person, singular, pluperfect, active, subjunctive. 
->>The pluperfect tense and subjunctive mood are used to show the sequence of action. ❌ This tense and mood suggests that the action of the verb happened before the other action in the sentence. (REVISION: THE PLUPERFECT SUBJUNCTIVE HERE EXPRESSES THAT THE VERB HAD HAPPENED (HAD CAME - WENT))
+THE  SUBJUNCTIVE IS USED TO SHOW CIRCUMSTANCE - the pluperfect indicates time earlier than a main verb in secondary sequence
 5. Identify the form pollicitus est. What dictionary form would you look under to find this verb?
 >Third person, singular, perfect, passive, indicative
 >>"polliceo, pollicere, pollicui, pollicitum - to promise" 
