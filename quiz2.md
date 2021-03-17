@@ -10,7 +10,7 @@ third plural imperfect indicative active - dabant: "they were giving"
 present infinitive active - dare
 third plural imperfect subjunctive active - darent
 third plural perfect indicative active - dederunt: "they gave"
-perfect infinitive passive - dadus esse❌
+perfect infinitive passive - dadus esse❌ (REVISION: datus esse)
 third plural pluperfect subjunctive active - dedissent
 
 2. facio, facere, feci, factus - to make (3rd -io)
