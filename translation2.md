@@ -41,3 +41,4 @@ URN: "sufferō sustulī, sublātus, sufferre - sub+fero, to take up, submit to, 
 
 Translation: 
 Deianira, Hercules' wife, was not able to cross the river, Evenus, and she asked the centaur Nessus, whose sons were Ixionis and Nubis, for help. 
+
