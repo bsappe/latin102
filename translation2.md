@@ -18,7 +18,7 @@ B. Grammatical questions
 
 3. sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here.
 
-4. Identify the form of sagittis. Why does Hyginus use this case?
+4. Identify the form of sagittis. Why does Hyginus use this case? - ablative
 
 5. Identify the form of moriens. - present active participle
 
