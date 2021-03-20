@@ -40,5 +40,5 @@ URN: "sufferō sustulī, sublātus, sufferre - sub+fero, to take up, submit to, 
 9. William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin. - moriens (present active participle) 
 
 Translation: 
-Deianira, Hercules' wife, was not able to cross the river, Evenus, and she asked the centaur Nessus, whose sons were Ixionis and Nubis, for help. 
+Deianira, Hercules' wife, was not able to cross the river, Evenus, and she asked the centaur Nessus, whose sons were Ixionis and Nubis, for help. He himself wished to rape Deinira, who was submitting in the River. When Hercules came to this place and Deinira begged in tears for his help, he peirced Nessus by the arrow. When he was dying, he knew that the arrows had great power because they were soaked in Hydra Lerna and he gave his own blood which was a love potion to Dienira. 
 
