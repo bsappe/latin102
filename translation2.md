@@ -1,18 +1,23 @@
+**Needs revisions**
+
 A. Grammatical analysis - Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
 
-1. Deianira, uxor Herculis, flumen magnum, cui nomen Evenus *erat*, 
->*non poterat* *transire*, 
->>et centaurum Nessum, qui filius Ixionis et Nubis *erat*, auxilium *rogavit*. 
+1. Deianira, uxor Herculis, flumen magnum, cui nomen Evenus *erat*, ❌
 
-2. Hic Deianiram *sublatam* in flumine ipso uiolare *uoluit*. 
+>*non poterat* *transire*,  ❌
+
+>>et centaurum Nessum, qui filius Ixionis et Nubis *erat*, auxilium *rogavit*. ❌
+
+2. Hic Deianiram *sublatam* in flumine ipso uiolare *uoluit*. ❌
 
 3. Huc Hercules 
+
 >cum *interuenisset* 
 >>et 
->>>Deianira cum fidem eius *implorasset*, 
->>>>Nessum sagittis *confixit*.
+>>>Deianira cum fidem eius *implorasset*, ❌
+>>>>Nessum sagittis *confixit*. ❌
 
-4. ille moriens, 
+4. ille moriens, ❌
 >cum *sciret* 
 >>sagittas Hydrae Lernaeae felle tinctas magnam vim *habere*, 
 >>>sanguinem suum exceptum Deianirae *dedit* 
@@ -20,16 +25,16 @@ A. Grammatical analysis - Place each verbal idea (clause, indirect statement, pa
 
 B. Grammatical questions
 
-1. Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?) - antecedent: "flumen magnum," neuter and singular to match the number and gender of the antecedent, dative - functions as an indirect object 
+1. Identify the antecedent of cui, and its gender and number. Then explain what case cui is, and how it functions in the relative clause. (I.e., why is cui in this case?) - antecedent: "flumen magnum," neuter and singular to match the number and gender of the antecedent, dative - functions as an indirect object ❌
 
-2. Identify the form of transire. Explain why you placed it in the clause you chose. - present infinitive, the present infinitive identifies the time relation of the pain verb (poterat) in the sequence - it explains that Dieanira was not able to cross the river at that (same) time. 
+2. Identify the form of transire. Explain why you placed it in the clause you chose. - present infinitive, the present infinitive identifies the time relation of the pain verb (poterat) in the sequence - it explains that Dieanira was not able to cross the river at that (same) time. ❌
 
 3. sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here. - feminine, accusative, singular, perfect, passive, participle. 
 URN: "sufferō sustulī, sublātus, sufferre - sub+fero, to take up, submit to, undergo, bear"
 
 4. Identify the form of sagittis. Why does Hyginus use this case? - ablative, ablative of agent - "by the arrow"
 
-5. Identify the form of moriens. - present active participle
+5. Identify the form of moriens. - present active participle **Gender, case?** ❌
 
 6. Identify felle. Why does Hyginus use this case? - ablative case, used as an ablative of agent - "by the poisinous liquid"
 
@@ -40,5 +45,16 @@ URN: "sufferō sustulī, sublātus, sufferre - sub+fero, to take up, submit to, 
 9. William Faulkner’s novel As I lay dying takes its title from an English translation of a single word in Odyssey 11.424. In Greek, where participles function very differently from English but similarly to Latin, that word is a present active participle. Suggest one or more possible translations of Faulkner’s title into Latin. - moriens (present active participle) 
 
 Translation: 
-Deianira, Hercules' wife, was not able to cross the river, Evenus, and she asked the centaur Nessus, whose sons were Ixionis and Nubis, for help. He himself wished to rape Deinira, who was submitting in the River. When Hercules came to this place and Deinira begged in tears for his help, he peirced Nessus by the arrow. When he was dying, he knew that the arrows had great power because they were soaked in Hydra Lerna and he gave his own blood which was a love potion to Dienira. 
+Deianira, Hercules' wife, was not able to cross the river, Evenus, and she asked the centaur Nessus, 
+whose sons were Ixionis and Nubis,❌ 
+for help. 
+
+He himself wished to rape Deinira, 
+who was submitting in the River.❌ 
+
+When Hercules came to this place and Deinira begged in tears for his help, he peirced Nessus by the arrow❌. 
+
+When he was dying, he knew that the arrows had great power because they were soaked in Hydra Lerna 
+and he gave his own blood 
+which was a love potion❌ to Dienira. 
 
