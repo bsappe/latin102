@@ -1,25 +1,26 @@
 Passage to analyze: Hyginus, chapter 30, sections 7-9.
 
 1. Augeae regis stercus bobile uno die purgavit, maiorem partem Iove adiutore; flumine admisso totum stercus abluit.
-He (Hercules) cleaned the maneur from the stable of King Augeus in one day, with Jove helping for a great part. Because he was let in, he cleaned out all of the menure from the river.  
+He (Hercules) cleaned the maneur from the stable of King Augeus in one day, with Jove helping for a great part. Because the river was let in, he cleaned out all of the dung from the river.  
 
 2. Taurum cum quo Pasiphae concubuit ex Creta insula Mycenis vivum adduxit.
-He led the bull, with whom Pasiphae laid, from the island of Crete to Mycenes. 
+He led the living bull, with whom Pasiphae laid, from the island of Crete to Mycenae. 
 
 3. Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cum Abdero famulo interfecit; equorum autem nomina Podargus Lampon Xanthus Dinus.
-Hercules, with the slave Abdero, killed Diomedes, the king of Thrace, and his four horses who ate the flesh of humans; also the names of the horses were Podargus, Lampon, Xanthus, and Dinus. 
+Hercules, with the slave Abdero, killed Diomedes, the king of Thrace, and his four horses who fed on the flesh of humans; also the names of the horses were Podargus, Lampon, Xanthus, and Dinus. 
 
 A. Grammatical analysis
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
 
 1. 
 Augeae regis stercus bobile uno die *purgavit*, 
-> maiorem partem Iove adiutore; 
-> >flumine admisso totum stercus abluit.
+maiorem partem Iove adiutore; 
+> flumine admisso 
+totum stercus *abluit*.
 
 2. 
-Taurum cum 
->quo Pasiphae *concubuit* 
+Taurum 
+> cum quo Pasiphae *concubuit* 
 ex Creta insula Mycenis vivum *adduxit.*
 
 3. 
@@ -29,7 +30,7 @@ cum Abdero famulo *interfecit*;
 >>equorum autem nomina Podargus Lampon Xanthus Dinus.
 
 B. Grammatical questions
-1. In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase - ablative, used to explain how the main verb of the statement was accomplished. 
+1. In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase - ablative, used to explain how the main verb of the statement was accomplished, ablative absolute construction. 
 
 2. What case is stercus, and why is it in that case? - stercus is in the accusative form because it is the direct object of the verb "purgavit"
 
