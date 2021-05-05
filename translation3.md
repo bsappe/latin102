@@ -7,7 +7,7 @@ He (Hercules) cleaned the maneur from the stable of King Augeus in one day, with
 He led the living bull, with whom Pasiphae laid, from the island of Crete to Mycenae. 
 
 3. Diomedem Thraciae regem et equos quattuor eius, qui carne humana vescebantur, cum Abdero famulo interfecit; equorum autem nomina Podargus Lampon Xanthus Dinus.
-Hercules, with the slave Abdero, killed Diomedes, the king of Thrace, and his four horses who fed on the flesh of humans; also the names of the horses were Podargus, Lampon, Xanthus, and Dinus. 
+Hercules killed Diomedes, the king of Thrace, with the slave Abdero, and his four horses who fed on the flesh of humans; also the names of the horses were Podargus, Lampon, Xanthus, and Dinus. 
 
 A. Grammatical analysis
 Place each verbal idea (clause, indirect statement, participial expression) on a separate line, indented to show its level of subordination. Italicize the verb of each unit by surrounding it with asterisks.
