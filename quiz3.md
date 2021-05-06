@@ -1,4 +1,4 @@
-**Needs minor revisions**
+**Full credit**
 
 Dictionary Skills 1: noun-adjective pairs
 
@@ -67,12 +67,12 @@ Compose a dictionary form for the proper adjectives in the following phrases:
 1. Leonem Nemeum - Nemeus, Nemea, Nemeum
 2. Hydram Lernaeam - Lernae, Lerna, Lernaeum
 3. aprum Erymanthium - Erymathis, Erymathia
-4. aves Stymphalides - Stymphalidis, Stymphalidia ❓ **This one is tricky!** **Revision: Stymphālis, Stymphālidis** 
+4. aves Stymphalides - Stymphalidis, Stymphalidia **Revision: Stymphālis, Stymphālidis** 
 5. Hippolyten Amazonam (NB: Hippolyten is a Greek name in a feminine accusative singular form, like Iolen in our earlier assignment.) - Amazon, Amazona, Amazonum
 
 Comparative and Superlative Forms
 
-1. The Hydra killed passers by *with a great blowing* of his poisonous breath. - cum magno afflatu❌ **Adjective forms are good in 1-3, but don't need a preposition to express instrument.** **Revision: magno afflatu **
+1. The Hydra killed passers by *with a great blowing* of his poisonous breath. - cum magno afflatu **Revision: magno afflatu **
 
 2. The Hydra killed passers by *with a greater blowing* of his poisonous breath. - cum maiore afflatu
 
