@@ -22,6 +22,7 @@ auxilium *rogavit*.
 uiolare *uoluit*. 
 
 3. 
+
 >Huc Hercules cum *interuenisset* 
 
 >et Deianira cum fidem eius *implorasset*, 
@@ -29,6 +30,7 @@ uiolare *uoluit*.
 Nessum sagittis *confixit*. 
 
 4. 
+
 ille 
 
 >moriens, 
@@ -62,7 +64,7 @@ B. Grammatical questions
 4. sublatam is from a verb that is a compound of sub plus a verb you should know very well. Identify the form of this participle (which for participles means: gender, case, number, tense voice). Find the dictionary entry for this word in thed Lewis-Short’s Latin Dictionary, and give its URN here. - feminine, accusative, singular, perfect, passive, participle. 
 URN: "sufferō sustulī, sublātus, sufferre - sub+fero, to take up, submit to, undergo, bear"
 
-4. Identify the form of sagittis. Why does Hyginus use this case? - ablative, ablative of agent - "by the arrow"
+4. Identify the form of sagittis. Why does Hyginus use this case? - ablative, ablative of agent - "by the arrows"
 
 5. Identify the form of moriens. - present active participle, masculine, singular, nominative.
 
@@ -76,7 +78,7 @@ URN: "sufferō sustulī, sublātus, sufferre - sub+fero, to take up, submit to, 
 
 Translation: 
 
-Deianira, Hercules' wife, was not able to cross the river, Evenus, and she asked the for help from Nessus who was the son of Ixionis and Nubis. 
+Deianira, Hercules' wife, was not able to cross the river, Evenus, and she asked  for help from Nessus who was the son of Ixionis and Nubis. 
 
 He himself wished to rape Deinira, who was carried in the River itself. 
 
