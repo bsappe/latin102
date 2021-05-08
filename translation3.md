@@ -1,7 +1,10 @@
+**Needs one minor revision.**
+**Very nice!**
+
 Passage to analyze: Hyginus, chapter 30, sections 7-9.
 
 1. Augeae regis stercus bobile uno die purgavit, maiorem partem Iove adiutore; flumine admisso totum stercus abluit.
-He (Hercules) cleaned the maneur from the stable of King Augeus in one day, with Jove helping for a great part. Because the river was let in, he cleaned out all of the dung from the river.  
+He (Hercules) cleaned the manure from the stable of King Augeus in one day, with Jove helping for a great part. Because the river was let in, he cleaned out all of the dung from the river.  
 
 2. Taurum cum quo Pasiphae concubuit ex Creta insula Mycenis vivum adduxit.
 He led the living bull, with whom Pasiphae laid, from the island of Crete to Mycenae. 
@@ -27,7 +30,7 @@ ex Creta insula Mycenis vivum *adduxit.*
 Diomedem Thraciae regem et equos quattuor eius, 
 >qui carne humana *vescebantur*, 
 cum Abdero famulo *interfecit*; 
->>equorum autem nomina Podargus Lampon Xanthus Dinus.
+>>equorum autem nomina Podargus Lampon Xanthus Dinus. ❌ **This is actually a main clause! See your answer to question 6 in part B.**
 
 B. Grammatical questions
 1. In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase - ablative, used to explain how the main verb of the statement was accomplished, ablative absolute construction. 
