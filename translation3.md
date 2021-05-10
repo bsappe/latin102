@@ -1,5 +1,4 @@
-**Needs one minor revision.**
-**Very nice!**
+**Full credit**
 
 Passage to analyze: Hyginus, chapter 30, sections 7-9.
 
