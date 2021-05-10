@@ -30,7 +30,7 @@ ex Creta insula Mycenis vivum *adduxit.*
 Diomedem Thraciae regem et equos quattuor eius, 
 >qui carne humana *vescebantur*, 
 cum Abdero famulo *interfecit*; 
->>equorum autem nomina Podargus Lampon Xanthus Dinus. ❌ **This is actually a main clause! See your answer to question 6 in part B.**
+equorum autem nomina Podargus Lampon Xanthus Dinus. 
 
 B. Grammatical questions
 1. In the phrase, Iove adiutore, what case is Iove? What kind of construction is this phrase - ablative, used to explain how the main verb of the statement was accomplished, ablative absolute construction. 
